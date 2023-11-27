@@ -1,12 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=49&lines=HELLO,+My+name+is+Vitor+Gabriel;I'm+19+years+old;I'm+from+Brazil;I+am+majoring+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A52A2A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Gabriel;I'm+19+years+old;I'm+from+Brazil;I+am+majoring+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgrs&bg_color=0d1117&color=00FA9A&line=00FA9A&point=87CEEB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorgrs&bg_color=0d1117&color=A52A2A&line=A52A2A&point=FF0000&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgrs&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="VITOR GABRIEL github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgrs&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8B&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorgrs&show_icons=true&count_private=true&hide_border=true&title_color=A52A2A&icon_color=A52A2Atext_color=c9d1d9&bg_color=0d1117" alt="Vitor Gabriel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgrs&layout=compact&hide_border=true&title_color=A52A2A&text_color=A52A2A&bg_color=0d1117" />
 </div>
 
 
