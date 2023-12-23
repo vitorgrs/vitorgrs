@@ -1,5 +1,5 @@
 
-<img align='right' width="58%" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgrs&layout=compact&hide_border=true&title_color=A52A2A&text_color=A52A2A&bg_color=0d1117" />
+<img align='right' width="58%" height="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgrs&layout=compact&hide_border=true&title_color=A52A2A&text_color=A52A2A&bg_color=0d1117" />
 
 # Olá, chamo Vitor Gabriel, bem-vindo ao meu perfil.
 
